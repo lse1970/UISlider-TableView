@@ -45,9 +45,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
     }
     
-    //필수적인 delegate 구현
-    
-    
 
 
 }
